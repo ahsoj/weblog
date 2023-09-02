@@ -1,3 +1,3 @@
 # Weblog
 
-## blogging website for programming communities
+## blogging website for programming communities.
